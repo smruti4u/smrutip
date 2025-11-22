@@ -1,0 +1,15 @@
+# Files Category
+
+- [Read File](./read-file.md)
+- [Write File](./write-file.md)
+- [Append File](./append-file.md)
+- [Copy File](./copy-file.md)
+- [Move File](./move-file.md)
+- [Delete File](./delete-file.md)
+- [File Exists](./file-exists.md)
+- [Read Lines](./read-lines.md)
+- [Write Lines](./write-lines.md)
+- [File Info](./file-info.md)
+- [List Files](./list-files.md)
+- [Read Binary File](./read-binary-file.md)
+- [Write Binary File](./write-binary-file.md)

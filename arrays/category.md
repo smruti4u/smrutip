@@ -1,0 +1,16 @@
+# Arrays Category
+
+- [Create Array](./create-array.md)
+- [Sort Array](./sort-array.md)
+- [Reverse Array](./reverse-array.md)
+- [Find In Array](./find-in-array.md)
+- [Resize Array](./resize-array.md)
+- [Merge Arrays](./merge-arrays.md)
+- [Copy Array](./copy-array.md)
+- [Remove Duplicates](./remove-duplicates.md)
+- [Array To List](./array-to-list.md)
+- [List To Array](./list-to-array.md)
+- [Sum Array](./sum-array.md)
+- [Max Array](./max-array.md)
+- [Min Array](./min-array.md)
+- [Filter Array](./filter-array.md)
